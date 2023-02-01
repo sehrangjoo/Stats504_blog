@@ -3,7 +3,7 @@
     "path": "~/Box Sync/04.Graduate Coursework/05. Stats - Spring semester - Spring2023/Stats504_blog/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "1895252565",
     "contents": "",
     "dirty": false,
     "created": 1675265443283.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "6,10",
+        "cursorPosition": "2,18",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1675265953,
+    "lastKnownWriteTime": 1675267233,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1675265953169,
+    "last_content_update": 1675267233169,
     "read_only": false,
     "read_only_alternatives": []
 }
